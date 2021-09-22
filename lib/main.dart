@@ -36,10 +36,10 @@ class _MyHomePageState extends State<MyHomePage> {
         leading: IconButton(
           icon: const Icon(Icons.arrow_back_rounded),
           onPressed: () {},
-          color: Colors.black,
+          color: Colors.white,
         ),
         elevation: 0,
-        backgroundColor: Colors.white,
+        backgroundColor: Colors.purpleAccent,
       ),
       body: Container(
         height: 700,
